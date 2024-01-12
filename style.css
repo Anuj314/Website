@@ -165,10 +165,10 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/Final_website_coverpic.jpg") no-repeat center;
-    height: 50vh;
+    background: url("images/Anuj31.jpg") no-repeat center;
+    height: 100vh;
     color: #fff;
-    min-height: 100px;
+    min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
