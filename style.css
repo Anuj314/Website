@@ -165,8 +165,8 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/Edit cover pic.png") no-repeat center;
-    height: 100vh;
+    background: url("images/Final_website_coverpic.jpg") no-repeat center;
+    height: 50vh;
     color: #fff;
     min-height: 100px;
     background-size: cover;
