@@ -168,7 +168,7 @@ section .title::after{
     background: url("images/Edit cover pic.png") no-repeat center;
     height: 100vh;
     color: #fff;
-    min-height: 500px;
+    min-height: 100px;
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
